@@ -9,6 +9,8 @@ Start the app and search for features you might want to use or search through th
 <br/><br/>
 Some topics have a hint, that the implementation is possible using SAP Fiori tools, which we recommend to use.
 <br/><br/>
+While we regularly update this document, the timing does not necessarily coincide with when we release new features. Due to the breadth of SAP Fiori elements functionality, some features might not appear in this list, even if they are part of the official documentation.
+<br/><br/>
 If you use CAP for the first time, please follow the instructions from the [CAP Getting started](https://cap.cloud.sap/docs/get-started/) <br/> <br/>
 To run the featue showcase locally install the dependencies in the [root folder](https://github.tools.sap/fiori-elements/feature-showcase) with `npm install`. <br/>
 Then start the app with `cds watch`. <br/>
